@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ffpaidzonepush.netlify.app/sitemap.xml
